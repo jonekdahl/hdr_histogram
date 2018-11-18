@@ -2,6 +2,8 @@
 
 I am writing this gem as a learning experience. Please don't use it for anything (yet)! 
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/2a5269538dc3d2113bd4/maintainability)](https://codeclimate.com/github/jonekdahl/hdr_histogram/maintainability)
+
 ## Installation
 
 Add this line to your application's Gemfile:
