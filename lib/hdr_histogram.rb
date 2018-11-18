@@ -1,4 +1,4 @@
-require "hdr_histogram/version"
+require 'hdr_histogram/version'
 
 module HdrHistogram
   # Your code goes here...
