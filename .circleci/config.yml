@@ -49,3 +49,9 @@ jobs:
       - store_artifacts:
           path: /tmp/test-results
           destination: test-results
+
+      # run linter
+      - run:
+          name: run rubocop
+          command: |
+            bundle exec rubocop --format emacs
