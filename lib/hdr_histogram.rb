@@ -2,6 +2,6 @@
 
 require 'hdr_histogram/version'
 
+# A pure Ruby implementation of HdrHistogram
 module HdrHistogram
-  # Your code goes here...
 end
